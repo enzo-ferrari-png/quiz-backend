@@ -51,7 +51,7 @@ Somos uma escola e queremos um gerador de questões de Biologia para treino. Cad
 Cada questão possui uma única referência, que pode ser um capítulo de livro ou artigo, contendo título, URL e idioma. Uma mesma referência pode ser utilizada por várias questões e cada referência é publicada por uma editora. O idioma pertence a um conjunto controlado. Para facilitar a busca, uma questão pode possuir zero ou mais palavras-chave, e uma mesma palavra-chave pode ser utilizada em várias questões.
 > 
 3. Requisitos e regras de negócio
-Cada RD01–RD11 e cada RA01–RA07 entra numa linha. Não deixem código de fora.
+Cada RD01–RD11 e cada RA01–RA07 entra numa linha. 
 Código	Texto do requisito	Tipo
 RD01	Toda questão tem código estável, título, enunciado e explicação, todos obrigatórios. Enunciado e explicação podem ser longos.	regra de negócio
 RD02	Toda questão pertence a exatamente um assunto. Não há dois assuntos com o mesmo nome.	regra de negócio
