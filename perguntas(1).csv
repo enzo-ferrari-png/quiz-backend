@@ -1,6 +1,30 @@
-1;Voce gosta de resolver problemas de logica?;Raciocinio;CC;SIM
-2;Voce se interessa por planejar sistemas grandes?;Projetos;ES;SIM
-3;Voce prefere aprender criando aplicacoes praticas?;Aprendizagem;ADS;SIM
-4;Voce prefere atividades com pouca programacao?;Interesse;CC;NAO
-5;Voce gosta de trabalhar com organizacao de projetos?;Projetos;ES;SIM
-6;Voce se interessa por criar solucoes para empresas?;Interesse;ADS;SIM
+1;O que significa Machine Learning?;Analise;Machine Learning;
+2;O que caracteriza a IA generativa?;Criatividade;IA generativa;
+3;Para que serve um conjunto de dados de treino?;Analise;Dados de treino;
+4;O que e vies em um modelo de IA?;Analise;Vies em IA;
+5;Qual destas e uma aplicacao tipica de IA na saude?;Tecnica;Aplicacoes de IA;
+6;O que um modelo de IA nao faz bem por conta propria?;Estrategia;Etica e limites da IA;
+7;Voce esta desenvolvendo um sistema e percebe que os usuarios tem dificuldade para usa-lo. O que voce faria primeiro?;Analise;Investigacao do problema;
+8;O sistema fica lento apenas quando muitas pessoas acessam ao mesmo tempo. Qual e o seu primeiro passo?;Analise;Diagnostico de desempenho;
+9;Um erro aparece em producao e voce ainda nao sabe a causa. Como voce age?;Analise;Depuracao em producao;
+10;Voce recebe uma tarefa com requisitos incompletos. O que voce faz?;Estrategia;Requisitos incompletos;
+11;Ha dois problemas abertos: um causa erro grave em poucos usuarios e outro e apenas estetico, mas afeta todos. Qual voce prioriza?;Estrategia;Priorizacao;
+12;Uma solucao pronta encontrada na internet resolve o problema, mas voce nao entende como ela funciona. O que voce faz?;Analise;Uso consciente de solucoes prontas;
+13;Voce cometeu um erro que afetou o trabalho da equipe. O que voce faz?;Colaboracao;Responsabilidade;
+14;Voce precisa dividir as tarefas de um projeto em grupo. Como voce faria?;Colaboracao;Divisao de tarefas;
+15;Voce precisa explicar um conceito tecnico para alguem de outra area. Como voce faria?;Colaboracao;Comunicacao de ideias;
+16;Um colega entrega um trabalho com problemas. Como voce da esse retorno a ele?;Colaboracao;Feedback;
+17;Em um trabalho em equipe, uma pessoa nao cumpre a parte dela. O que voce faz?;Colaboracao;Conflitos;
+18;Voce precisa apresentar um projeto para uma plateia que nao e tecnica. Como voce prepara a apresentacao?;Colaboracao;Apresentacao de ideias;
+19;O projeto precisa ser entregue funcionando com metade do tempo esperado. Qual e a sua estrategia?;Estrategia;Limitacoes de recursos;
+20;Voce tem muitas ideias para um projeto, mas so consegue executar algumas. Como decide?;Estrategia;Priorizacao de ideias;
+21;No meio do projeto o cliente muda um requisito importante. Como voce reage?;Estrategia;Mudanca de requisitos;
+22;Como voce costuma encontrar ideias para um projeto novo?;Criatividade;Geracao de ideias;
+23;Voce precisa escolher entre duas solucoes diferentes para o mesmo problema. Como decide?;Estrategia;Tomada de decisao;
+24;Um experimento que voce fez deu errado, mas trouxe informacao nova. O que voce faz com isso?;Criatividade;Aprendizado com erro;
+25;Uma IA gera uma solucao de codigo rapidamente, mas voce nao entendeu completamente o que ela produziu. O que voce faz?;Analise;Uso critico de IA;
+26;Como voce imagina que a IA vai mudar o trabalho de quem programa?;Estrategia;Futuro da programacao;
+27;Voce precisa analisar dados sensiveis de pessoas, mas a ferramenta de IA disponivel esta fora da escola. O que voce faz?;Estrategia;Etica e privacidade;
+28;Uma ferramenta de IA ja faz parte do seu trabalho. Qual e o seu papel quando ela assume tarefas repetitivas?;Estrategia;Colaboracao humano-IA;
+29;Um colega confia nos resultados de uma IA e voce percebe que ha uma distorcao nos dados. Como voce age?;Analise;Pensamento critico;
+30;Pensando no seu futuro profissional, o que voce considera mais importante aprender primeiro?;Tecnica;Desenvolvimento profissional;
